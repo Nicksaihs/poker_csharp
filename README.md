@@ -8,7 +8,7 @@
     1. 按 開始 啟動計時器，計時器會以每0.05秒用亂數切換poker1.jpg~poker13.jpg 撲克牌圖。
     1. 按 暫停 顯示點數及對應鋪克牌圖。
 
-![image](https://hackmd.io/_uploads/SyadraVlyx.png)
+![image](https://github.com/user-attachments/assets/2f89f3ba-15c0-4fbb-92bb-f9e46a8c271c)
 
 ```csharp=
 namespace poker
